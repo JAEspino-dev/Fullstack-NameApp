@@ -1,9 +1,9 @@
 # ☀️ FullStack Name App
-Use this program if you want to see the current weather of a city!  
+Use this program if you want to see the a random name!
 
 # 📋 How to use
 1. Open the app in your browser  
-2. Enter a name  
+2. Fill out the questionnaire
 3. Instantly view more information about the name
 
 # ✨ Features
