@@ -7,7 +7,7 @@ Use this program if you want to see the a random name!
 3. Instantly view more information about the name
 
 # ✨ Features
-* Responsive design for desktop and mobile.         
+* Responsive design for desktop and mobile        
 
 # 🔨 Built With
 * HTML5 – structure    
